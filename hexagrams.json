@@ -1,5 +1,6 @@
 [
   {
+    "binary": 63,
     "binaryString": "111111",
     "char": "䷀",
     "id": 1,
@@ -13,6 +14,7 @@
     "yomi": "qián"
   },
   {
+    "binary": 0,
     "binaryString": "000000",
     "char": "䷁",
     "id": 2,
@@ -26,6 +28,7 @@
     "yomi": "kūn"
   },
   {
+    "binary": 34,
     "binaryString": "100010",
     "char": "䷂",
     "id": 3,
@@ -39,6 +42,7 @@
     "yomi": "zhūn"
   },
   {
+    "binary": 17,
     "binaryString": "010001",
     "char": "䷃",
     "id": 4,
@@ -52,6 +56,7 @@
     "yomi": "méng"
   },
   {
+    "binary": 58,
     "binaryString": "111010",
     "char": "䷄",
     "id": 5,
@@ -65,6 +70,7 @@
     "yomi": "xū"
   },
   {
+    "binary": 23,
     "binaryString": "010111",
     "char": "䷅",
     "id": 6,
@@ -78,6 +84,7 @@
     "yomi": "sòng"
   },
   {
+    "binary": 16,
     "binaryString": "010000",
     "char": "䷆",
     "id": 7,
@@ -91,6 +98,7 @@
     "yomi": "shī"
   },
   {
+    "binary": 2,
     "binaryString": "000010",
     "char": "䷇",
     "id": 8,
@@ -104,6 +112,7 @@
     "yomi": "bǐ"
   },
   {
+    "binary": 59,
     "binaryString": "111011",
     "char": "䷈",
     "id": 9,
@@ -117,6 +126,7 @@
     "yomi": "xiǎo xù"
   },
   {
+    "binary": 55,
     "binaryString": "110111",
     "char": "䷉",
     "id": 10,
@@ -130,6 +140,7 @@
     "yomi": "lǚ"
   },
   {
+    "binary": 56,
     "binaryString": "111000",
     "char": "䷊",
     "id": 11,
@@ -143,6 +154,7 @@
     "yomi": "tài"
   },
   {
+    "binary": 7,
     "binaryString": "000111",
     "char": "䷋",
     "id": 12,
@@ -156,6 +168,7 @@
     "yomi": "pǐ"
   },
   {
+    "binary": 47,
     "binaryString": "101111",
     "char": "䷌",
     "id": 13,
@@ -169,6 +182,7 @@
     "yomi": "tóng rén"
   },
   {
+    "binary": 61,
     "binaryString": "111101",
     "char": "䷍",
     "id": 14,
@@ -182,6 +196,7 @@
     "yomi": "dà yǒu"
   },
   {
+    "binary": 8,
     "binaryString": "001000",
     "char": "䷎",
     "id": 15,
@@ -195,6 +210,7 @@
     "yomi": "qiān"
   },
   {
+    "binary": 4,
     "binaryString": "000100",
     "char": "䷏",
     "id": 16,
@@ -208,6 +224,7 @@
     "yomi": "yù"
   },
   {
+    "binary": 38,
     "binaryString": "100110",
     "char": "䷐",
     "id": 17,
@@ -221,6 +238,7 @@
     "yomi": "suí"
   },
   {
+    "binary": 25,
     "binaryString": "011001",
     "char": "䷑",
     "id": 18,
@@ -234,6 +252,7 @@
     "yomi": "gǔ"
   },
   {
+    "binary": 48,
     "binaryString": "110000",
     "char": "䷒",
     "id": 19,
@@ -247,6 +266,7 @@
     "yomi": "lín"
   },
   {
+    "binary": 3,
     "binaryString": "000011",
     "char": "䷓",
     "id": 20,
@@ -260,6 +280,7 @@
     "yomi": "guān"
   },
   {
+    "binary": 37,
     "binaryString": "100101",
     "char": "䷔",
     "id": 21,
@@ -273,6 +294,7 @@
     "yomi": "shì kè"
   },
   {
+    "binary": 41,
     "binaryString": "101001",
     "char": "䷕",
     "id": 22,
@@ -286,6 +308,7 @@
     "yomi": "bì"
   },
   {
+    "binary": 1,
     "binaryString": "000001",
     "char": "䷖",
     "id": 23,
@@ -299,6 +322,7 @@
     "yomi": "bō"
   },
   {
+    "binary": 32,
     "binaryString": "100000",
     "char": "䷗",
     "id": 24,
@@ -312,6 +336,7 @@
     "yomi": "fù"
   },
   {
+    "binary": 39,
     "binaryString": "100111",
     "char": "䷘",
     "id": 25,
@@ -325,6 +350,7 @@
     "yomi": "wú wàng"
   },
   {
+    "binary": 57,
     "binaryString": "111001",
     "char": "䷙",
     "id": 26,
@@ -338,6 +364,7 @@
     "yomi": "dà xù"
   },
   {
+    "binary": 33,
     "binaryString": "100001",
     "char": "䷚",
     "id": 27,
@@ -351,6 +378,7 @@
     "yomi": "yí"
   },
   {
+    "binary": 30,
     "binaryString": "011110",
     "char": "䷛",
     "id": 28,
@@ -364,6 +392,7 @@
     "yomi": "dà guò"
   },
   {
+    "binary": 18,
     "binaryString": "010010",
     "char": "䷜",
     "id": 29,
@@ -377,6 +406,7 @@
     "yomi": "kǎn"
   },
   {
+    "binary": 45,
     "binaryString": "101101",
     "char": "䷝",
     "id": 30,
@@ -390,6 +420,7 @@
     "yomi": "lí"
   },
   {
+    "binary": 14,
     "binaryString": "001110",
     "char": "䷞",
     "id": 31,
@@ -403,6 +434,7 @@
     "yomi": "xián"
   },
   {
+    "binary": 28,
     "binaryString": "011100",
     "char": "䷟",
     "id": 32,
@@ -416,6 +448,7 @@
     "yomi": "héng"
   },
   {
+    "binary": 15,
     "binaryString": "001111",
     "char": "䷠",
     "id": 33,
@@ -429,6 +462,7 @@
     "yomi": "dùn"
   },
   {
+    "binary": 60,
     "binaryString": "111100",
     "char": "䷡",
     "id": 34,
@@ -442,6 +476,7 @@
     "yomi": "dà zhuàng"
   },
   {
+    "binary": 5,
     "binaryString": "000101",
     "char": "䷢",
     "id": 35,
@@ -455,6 +490,7 @@
     "yomi": "jìn"
   },
   {
+    "binary": 40,
     "binaryString": "101000",
     "char": "䷣",
     "id": 36,
@@ -468,6 +504,7 @@
     "yomi": "míng yí"
   },
   {
+    "binary": 43,
     "binaryString": "101011",
     "char": "䷤",
     "id": 37,
@@ -481,6 +518,7 @@
     "yomi": "jiā rén"
   },
   {
+    "binary": 53,
     "binaryString": "110101",
     "char": "䷥",
     "id": 38,
@@ -494,6 +532,7 @@
     "yomi": "kuí"
   },
   {
+    "binary": 10,
     "binaryString": "001010",
     "char": "䷦",
     "id": 39,
@@ -507,6 +546,7 @@
     "yomi": "jiǎn"
   },
   {
+    "binary": 20,
     "binaryString": "010100",
     "char": "䷧",
     "id": 40,
@@ -520,6 +560,7 @@
     "yomi": "xiè"
   },
   {
+    "binary": 49,
     "binaryString": "110001",
     "char": "䷨",
     "id": 41,
@@ -533,6 +574,7 @@
     "yomi": "sǔn"
   },
   {
+    "binary": 35,
     "binaryString": "100011",
     "char": "䷩",
     "id": 42,
@@ -546,6 +588,7 @@
     "yomi": "yì"
   },
   {
+    "binary": 62,
     "binaryString": "111110",
     "char": "䷪",
     "id": 43,
@@ -559,6 +602,7 @@
     "yomi": "guài"
   },
   {
+    "binary": 31,
     "binaryString": "011111",
     "char": "䷫",
     "id": 44,
@@ -572,6 +616,7 @@
     "yomi": "gòu"
   },
   {
+    "binary": 6,
     "binaryString": "000110",
     "char": "䷬",
     "id": 45,
@@ -585,6 +630,7 @@
     "yomi": "cuì"
   },
   {
+    "binary": 24,
     "binaryString": "011000",
     "char": "䷭",
     "id": 46,
@@ -598,6 +644,7 @@
     "yomi": "shēng"
   },
   {
+    "binary": 22,
     "binaryString": "010110",
     "char": "䷮",
     "id": 47,
@@ -611,6 +658,7 @@
     "yomi": "kùn"
   },
   {
+    "binary": 26,
     "binaryString": "011010",
     "char": "䷯",
     "id": 48,
@@ -624,6 +672,7 @@
     "yomi": "jǐng"
   },
   {
+    "binary": 46,
     "binaryString": "101110",
     "char": "䷰",
     "id": 49,
@@ -637,6 +686,7 @@
     "yomi": "gé"
   },
   {
+    "binary": 29,
     "binaryString": "011101",
     "char": "䷱",
     "id": 50,
@@ -650,6 +700,7 @@
     "yomi": "dǐng"
   },
   {
+    "binary": 36,
     "binaryString": "100100",
     "char": "䷲",
     "id": 51,
@@ -663,6 +714,7 @@
     "yomi": "zhèn"
   },
   {
+    "binary": 9,
     "binaryString": "001001",
     "char": "䷳",
     "id": 52,
@@ -676,6 +728,7 @@
     "yomi": "gèn"
   },
   {
+    "binary": 11,
     "binaryString": "001011",
     "char": "䷴",
     "id": 53,
@@ -689,6 +742,7 @@
     "yomi": "jiàn"
   },
   {
+    "binary": 52,
     "binaryString": "110100",
     "char": "䷵",
     "id": 54,
@@ -702,6 +756,7 @@
     "yomi": "guī mèi"
   },
   {
+    "binary": 44,
     "binaryString": "101100",
     "char": "䷶",
     "id": 55,
@@ -715,6 +770,7 @@
     "yomi": "fēng"
   },
   {
+    "binary": 13,
     "binaryString": "001101",
     "char": "䷷",
     "id": 56,
@@ -728,6 +784,7 @@
     "yomi": "lǚ"
   },
   {
+    "binary": 27,
     "binaryString": "011011",
     "char": "䷸",
     "id": 57,
@@ -741,6 +798,7 @@
     "yomi": "xùn"
   },
   {
+    "binary": 54,
     "binaryString": "110110",
     "char": "䷹",
     "id": 58,
@@ -754,6 +812,7 @@
     "yomi": "duì"
   },
   {
+    "binary": 19,
     "binaryString": "010011",
     "char": "䷺",
     "id": 59,
@@ -767,6 +826,7 @@
     "yomi": "huàn"
   },
   {
+    "binary": 50,
     "binaryString": "110010",
     "char": "䷻",
     "id": 60,
@@ -780,6 +840,7 @@
     "yomi": "jié"
   },
   {
+    "binary": 51,
     "binaryString": "110011",
     "char": "䷼",
     "id": 61,
@@ -793,6 +854,7 @@
     "yomi": "zhōng fú"
   },
   {
+    "binary": 12,
     "binaryString": "001100",
     "char": "䷽",
     "id": 62,
@@ -806,6 +868,7 @@
     "yomi": "xiǎo guò"
   },
   {
+    "binary": 42,
     "binaryString": "101010",
     "char": "䷾",
     "id": 63,
@@ -819,6 +882,7 @@
     "yomi": "jì jì"
   },
   {
+    "binary": 21,
     "binaryString": "010101",
     "char": "䷿",
     "id": 64,
